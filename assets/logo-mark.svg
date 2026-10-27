@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" role="img" aria-label="Monograma Odontoriso">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E3C896"/>
+      <stop offset=".55" stop-color="#C39C60"/>
+      <stop offset="1" stop-color="#9C7439"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 48V14H57C77 14 77 44 57 44H38" fill="none" stroke="#1B4F82" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M54 44C60 56 68 68 78 80" fill="none" stroke="#1B4F82" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31 50C9 63 13 95 55 91C74 89 88 78 93 62C85 75 71 82 55 82C29 82 22 64 37 52Z" fill="url(#gold)"/>
+</svg>
